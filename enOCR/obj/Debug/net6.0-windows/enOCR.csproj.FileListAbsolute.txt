@@ -1,0 +1,16 @@
+J:\myprojects&programs\OCR\enOCR\enOCR\enOCR\obj\Debug\net6.0-windows\enOCR.Form1.resources
+J:\myprojects&programs\OCR\enOCR\enOCR\enOCR\obj\Debug\net6.0-windows\enOCR.csproj.GenerateResource.cache
+J:\myprojects&programs\OCR\enOCR\enOCR\enOCR\obj\Debug\net6.0-windows\enOCR.GeneratedMSBuildEditorConfig.editorconfig
+J:\myprojects&programs\OCR\enOCR\enOCR\enOCR\obj\Debug\net6.0-windows\enOCR.AssemblyInfoInputs.cache
+J:\myprojects&programs\OCR\enOCR\enOCR\enOCR\obj\Debug\net6.0-windows\enOCR.AssemblyInfo.cs
+J:\myprojects&programs\OCR\enOCR\enOCR\enOCR\obj\Debug\net6.0-windows\enOCR.csproj.CoreCompileInputs.cache
+J:\myprojects&programs\OCR\enOCR\enOCR\enOCR\bin\Debug\net6.0-windows\enOCR.exe
+J:\myprojects&programs\OCR\enOCR\enOCR\enOCR\bin\Debug\net6.0-windows\enOCR.deps.json
+J:\myprojects&programs\OCR\enOCR\enOCR\enOCR\bin\Debug\net6.0-windows\enOCR.runtimeconfig.json
+J:\myprojects&programs\OCR\enOCR\enOCR\enOCR\bin\Debug\net6.0-windows\enOCR.dll
+J:\myprojects&programs\OCR\enOCR\enOCR\enOCR\bin\Debug\net6.0-windows\enOCR.pdb
+J:\myprojects&programs\OCR\enOCR\enOCR\enOCR\obj\Debug\net6.0-windows\enOCR.dll
+J:\myprojects&programs\OCR\enOCR\enOCR\enOCR\obj\Debug\net6.0-windows\ref\enOCR.dll
+J:\myprojects&programs\OCR\enOCR\enOCR\enOCR\obj\Debug\net6.0-windows\enOCR.pdb
+J:\myprojects&programs\OCR\enOCR\enOCR\enOCR\obj\Debug\net6.0-windows\enOCR.genruntimeconfig.cache
+J:\myprojects&programs\OCR\enOCR\enOCR\enOCR\obj\Debug\net6.0-windows\refint\enOCR.dll
